@@ -9,6 +9,7 @@
   *
   * Plugin version information.
   -->
+
 <version>
 	<application>defaultTranslation</application>
 	<type>plugins.generic</type>
